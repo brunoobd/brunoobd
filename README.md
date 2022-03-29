@@ -1,7 +1,6 @@
 ### Oi, me chamo Bruno Duarte!
   <div align="center">
      <a href="https://github.com/brunoobd">       
-     <img height="180em" src="https://media-exp1.licdn.com/dms/image/C5616AQHVmPNLXJHyyQ/profile-displaybackgroundimage-shrink_350_1400/0/1648561846582?e=1654128000&v=beta&t=ofuKMFul0Inbe-Yj1yuN1QAHsfsjGs5iWQufyTTGIqU">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoobd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoobd&layout=compact&langs_count=7&theme=github_dark"/>
    </div>
