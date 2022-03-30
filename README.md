@@ -1,6 +1,6 @@
 ### Oi, me chamo Bruno Duarte!
   <div align="center">
-    <img width="98%" src="https://media-exp1.licdn.com/dms/image/C4D16AQFLtjjpYeSOCQ/profile-displaybackgroundimage-shrink_200_800/0/1648659490758?e=1654128000&v=beta&t=hC-3f9TQiBgs3FLIzlb1lzTF2nr-W1hXmSfQ8cypPXA">
+    <img width="98%" src="https://ibb.co/Chj8MzQ">
   </div>
   <div align="center" style="display: inline_block">
      <a href="https://github.com/brunoobd">       
