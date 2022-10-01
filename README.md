@@ -1,7 +1,5 @@
 ### Oi, me chamo Bruno Duarte!
-  <div align="center">
-    ![header2](https://user-images.githubusercontent.com/72103222/193415597-9ccd3515-6422-4c39-9da9-96af3c975a67.jpg)
-  </div>
+  ![header2](https://user-images.githubusercontent.com/72103222/193415597-9ccd3515-6422-4c39-9da9-96af3c975a67.jpg)
   <div align="center" style="display: inline_block">
      <a href="https://github.com/brunoobd">       
 
