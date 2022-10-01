@@ -1,5 +1,5 @@
 ### Oi, me chamo Bruno Duarte!
-  <div align="center" width="300rem">
+  <div align="center" width="180rem">
     <img width="100%" src="https://i.ibb.co/0hdbnMQ/header2.png">
   </div>
   <div align="center" style="display: inline_block">
