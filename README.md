@@ -2,10 +2,9 @@
 
 ### Oi, me chamo Bruno Duarte!
 ![header2](https://user-images.githubusercontent.com/72103222/193415597-9ccd3515-6422-4c39-9da9-96af3c975a67.jpg)
-<div align="center" style="display: inline_block">
-	<a href="https://github.com/brunoobd">       
-	<img height="170rem" src="https://github-readme-stats.vercel.app/api?username=brunoobd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-	<img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoobd&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center" style="display: inline_block">       
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=brunoobd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoobd&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
 	<img align="center" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
