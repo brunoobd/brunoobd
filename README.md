@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ### Oi, me chamo Bruno Duarte!
-![header2](https://user-images.githubusercontent.com/72103222/193415597-9ccd3515-6422-4c39-9da9-96af3c975a67.jpg)
+![header2](https://github.com/brunoobd/brunoobd/assets/72103222/56b3f8ab-2583-4f87-8fbb-7459e2e8781a)
 <div align="center" style="display: inline_block">       
 	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brunoobd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 	<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoobd&layout=compact&langs_count=7&theme=github_dark"/>
