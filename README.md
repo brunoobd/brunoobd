@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ### Oi, me chamo Bruno Duarte!
-![header2](https://github.com/brunoobd/brunoobd/assets/72103222/41f95073-4654-4d87-9090-4ed169d94317)
+![header](https://github.com/user-attachments/assets/a3dd0539-6a7a-4eec-b1de-5e1c36b571d8)
 
 <div align="center" style="display: inline_block">       
 	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brunoobd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -20,5 +20,5 @@
 <hr>
 <div align="center">
 	<a href = "mailto:bruno.duarte314@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href = "https://www.linkedin.com/in/brunoo-duarte/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href = "https://www.linkedin.com/in/brunobduarte/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
